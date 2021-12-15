@@ -5,5 +5,4 @@ We start by building a dataset of texts in a source language together with a gro
 of the file is such that each sentence translation is being done on its own line as given below:
 <source-sentence>**<source-dialect>:<target-sentence>**<target-dialect>
 where <source-dialect> and <target-dialect> are the shorthand representations of the languages; for instance: KR for Krio, MN for Mende, TM for Temne, LM for Limba and so on(to be agreed upon for others)...
-As a baseline we should target a thousand translations between any pair of language; afterwards we proceed to model building where we create deep learning models to aid us with the stated tasks - Dialect recognition and 
-Machine Translation.
+As a baseline we should target a thousand translations between any pair of language; afterwards we proceed to model building where we create deep learning models to aid us with the stated tasks - Dialect Recognition and Machine Translation.
